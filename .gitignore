@@ -1,0 +1,36 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+*.env
+
+# Data files
+*.csv
+*.tsv
+*.xls*
+*.json
+*.db
+*.sqlite
+*.pkl
+*.h5
+
+
+# Log files
+*.log
+
+# TensorBoard and model logs
+logs/
+runs/
+events.out.tfevents.*
+
+# System files
+.DS_Store
+Thumbs.db
